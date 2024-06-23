@@ -1,2 +1,3 @@
 # Arthematicalculatorgui
-This is my first project on GitHub from my recent experience in advance python topic tkinter.
+#This is my first project as a beginner and its about an arthmetic calculator
+
